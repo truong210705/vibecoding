@@ -19,4 +19,3 @@ View your app in AI Studio: https://ai.studio/apps/8333cf39-c72f-4b3a-aa6c-b5a91
 3. Run the app:
    `npm run dev`
 "# vibecoding" 
-"# vibecoding2" 

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Hành Trình Phước - Cầu Sông Buông",
+  "description": "Game 2D đi cảnh phong cách retro giải cứu cô em Trúc khỏi tay Bá hộ Long. Vượt sông Buông, đạp rái cá và đánh bại Boss Công An bằng lý lẽ BECAUSE!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
